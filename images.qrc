@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/rage3x3.jpg</file>
+     <file>images/rage4x4.jpg</file>
+     <file>images/rage5x5.jpg</file>
+     <file>images/awesome3x3.jpg</file>
+     <file>images/awesome4x4.jpg</file>
+     <file>images/awesome5x5.jpg</file>
+     <file>images/troll_face3x3.png</file>
+     <file>images/troll_face4x4.png</file>
+     <file>images/troll_face5x5.png</file>     
+ </qresource>
+ </RCC>
